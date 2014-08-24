@@ -1,6 +1,6 @@
 It's a code book for 'tidy_data.txt' which is based on data, described in 'readme.txt'
 This table contains 180 rows and 68 columns
-
+````
 variable name               width        variable                    values
 
 subject                     2             Each row identifies         Its range is from 1 to 30.
@@ -76,3 +76,4 @@ fBodyBodyGyroMag.mean..     17
 fBodyBodyGyroMag.std..      17
 fBodyBodyGyroJerkMag.mean.. 17
 fBodyBodyGyroJerkMag.std..  17
+````
